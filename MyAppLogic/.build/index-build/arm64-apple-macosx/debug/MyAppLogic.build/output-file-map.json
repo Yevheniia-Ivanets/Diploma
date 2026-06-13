@@ -1,0 +1,61 @@
+{
+  "": {
+    "swift-dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/master.swiftdeps"
+  },
+  "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/Sources/MyAppLogic/Engine/LinearRegressionEngine.swift": {
+    "dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/LinearRegressionEngine.d",
+    "object": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/LinearRegressionEngine.swift.o",
+    "swiftmodule": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/LinearRegressionEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/LinearRegressionEngine.swiftdeps",
+    "diagnostics": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/LinearRegressionEngine.dia"
+  },
+  "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/Sources/MyAppLogic/Engine/RecoveryScoreEngine.swift": {
+    "dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/RecoveryScoreEngine.d",
+    "object": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/RecoveryScoreEngine.swift.o",
+    "swiftmodule": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/RecoveryScoreEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/RecoveryScoreEngine.swiftdeps",
+    "diagnostics": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/RecoveryScoreEngine.dia"
+  },
+  "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/Sources/MyAppLogic/Engine/WorkoutPlanGenerator.swift": {
+    "dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlanGenerator.d",
+    "object": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlanGenerator.swift.o",
+    "swiftmodule": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlanGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlanGenerator.swiftdeps",
+    "diagnostics": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlanGenerator.dia"
+  },
+  "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/Sources/MyAppLogic/Models/HealthMetric.swift": {
+    "dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/HealthMetric.d",
+    "object": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/HealthMetric.swift.o",
+    "swiftmodule": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/HealthMetric~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/HealthMetric.swiftdeps",
+    "diagnostics": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/HealthMetric.dia"
+  },
+  "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/Sources/MyAppLogic/Models/User.swift": {
+    "dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/User.d",
+    "object": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/User.swift.o",
+    "swiftmodule": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/User~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/User.swiftdeps",
+    "diagnostics": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/User.dia"
+  },
+  "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/Sources/MyAppLogic/Models/WorkoutPlan.swift": {
+    "dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlan.d",
+    "object": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlan.swift.o",
+    "swiftmodule": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlan~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlan.swiftdeps",
+    "diagnostics": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlan.dia"
+  },
+  "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/Sources/MyAppLogic/Repositories/HealthMetricRepository.swift": {
+    "dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/HealthMetricRepository.d",
+    "object": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/HealthMetricRepository.swift.o",
+    "swiftmodule": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/HealthMetricRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/HealthMetricRepository.swiftdeps",
+    "diagnostics": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/HealthMetricRepository.dia"
+  },
+  "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/Sources/MyAppLogic/Repositories/WorkoutPlanRepository.swift": {
+    "dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlanRepository.d",
+    "object": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlanRepository.swift.o",
+    "swiftmodule": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlanRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlanRepository.swiftdeps",
+    "diagnostics": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogic.build/WorkoutPlanRepository.dia"
+  }
+}

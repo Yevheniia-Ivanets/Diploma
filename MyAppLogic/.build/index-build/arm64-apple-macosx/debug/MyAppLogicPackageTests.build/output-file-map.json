@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogicPackageTests.build/master.swiftdeps"
+  },
+  "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogicPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogicPackageTests.build/runner.d",
+    "object": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogicPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogicPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogicPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/evgeniyaivanets/Desktop/HomeworkKPI/Diploma/MySport/MyAppLogic/.build/index-build/arm64-apple-macosx/debug/MyAppLogicPackageTests.build/runner.dia"
+  }
+}
