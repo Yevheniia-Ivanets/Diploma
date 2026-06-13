@@ -1,0 +1,11 @@
+MyAppLogic/.build/
+MyAppLogic/.swiftpm/
+# Xcode
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+DerivedData/
+build/
+
+# MacOS
+.DS_Store
+*.DS_Store
